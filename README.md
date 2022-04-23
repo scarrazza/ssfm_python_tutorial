@@ -148,7 +148,7 @@ for 100 points in x linearly spaced from 0 to 5.
 
 - Store plot to disk using the filename `output11.png`.
 
-## Exercise 12 - Plot di funzioni
+## Exercise 12 - Plot functions
 
 Write a python script/notebook with the following steps:
 
