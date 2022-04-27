@@ -18,6 +18,7 @@ module load python3/anaconda
 This will select a `python` 3.x interpreter from the [anaconda
 distribution](https://www.anaconda.com/).
 
+### Note
 
 If you are working in our own machine we suggest to install
 [anaconda3](https://www.anaconda.com/) and then perform the following
